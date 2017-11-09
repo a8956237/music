@@ -1,4 +1,4 @@
-package com.example.music;
+package com.jin.music;
 
 import android.Manifest;
 import android.content.ComponentName;
@@ -26,7 +26,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.music.util.ImageUtil;
+import com.jin.music.util.ImageUtil;
 
 import org.greenrobot.eventbus.EventBus;
 import org.greenrobot.eventbus.Subscribe;

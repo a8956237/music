@@ -1,4 +1,4 @@
-package com.jin.jinsapp;
+package com.jin.music;
 
 import org.junit.Test;
 
